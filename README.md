@@ -169,4 +169,39 @@ Clearly defining roles ensures smoother collaboration, accountability, and a suc
 ---
 
 Each role plays a critical part in building a scalable, user-centric, and robust Airbnb clone application.
+## UI Component Patterns
+
+This section outlines the core UI components that will be used throughout the Airbnb Clone project. These reusable components will help maintain consistency and streamline development.
+
+### Planned Components
+
+- **Navbar**
+  - Displays logo, search bar, and user menu
+  - Sticky at the top for persistent navigation
+
+- **Property Card**
+  - Shows image, title, location, price, and rating
+  - Reusable grid/list item for displaying listings
+
+- **Footer**
+  - Contains links to pages like About, Help, and Terms
+  - Positioned at the bottom of the layout
+
+- **Search Bar**
+  - Enables filtering by location, date, and guests
+  - Responsive for mobile and desktop
+
+- **Modal Dialog**
+  - Used for login/signup, filters, and confirmations
+  - Appears over the current content with a backdrop
+
+- **Button**
+  - Reusable for different actions (primary, secondary, outline)
+  - Styled consistently with Tailwind variants
+
+- **Image Gallery**
+  - Displays multiple images for a listing
+  - Includes slider or modal view on click
+
+These components will be implemented using **React + TypeScript** and styled with **TailwindCSS**, following best practices for reusable and composable UI design.
 
