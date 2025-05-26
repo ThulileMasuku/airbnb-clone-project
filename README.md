@@ -106,4 +106,67 @@ By mapping colors and typography from the Figma mockup to code, you ensure a pol
 
 Would you like help pushing this directly to your repo or customizing the color/typography names based on a specific Figma file?
 
+## 👥 Project Roles and Responsibilities
+
+Clearly defining roles ensures smoother collaboration, accountability, and a successful project lifecycle. Below are the key roles and their responsibilities for the Airbnb clone project:
+
+### 📌 Project Manager
+- **Responsibilities:**
+  - Oversees the entire project scope, timeline, and deliverables.
+  - Coordinates between teams to ensure goals are aligned.
+  - Tracks progress and mitigates risks.
+  - Ensures deadlines and milestones are met.
+
+### 🧑‍💻 Frontend Developers
+- **Responsibilities:**
+  - Implement UI components based on Figma designs using React, TypeScript, and TailwindCSS.
+  - Ensure responsive and accessible design.
+  - Handle client-side routing and state management.
+  - Integrate with backend APIs and services.
+
+### 🔧 Backend Developers
+- **Responsibilities:**
+  - Design and implement RESTful APIs.
+  - Manage authentication, database schemas, and server logic.
+  - Ensure scalability, performance, and security.
+  - Provide endpoints for frontend integration.
+
+### 🎨 UI/UX Designers
+- **Responsibilities:**
+  - Create wireframes, mockups, and high-fidelity prototypes in Figma.
+  - Define visual style guides, color palettes, and typography.
+  - Ensure the interface is user-friendly and intuitive.
+  - Conduct user research and iterate designs based on feedback.
+
+### 🧪 QA/Testers
+- **Responsibilities:**
+  - Write and run test cases (unit, integration, E2E).
+  - Perform manual and automated testing to identify bugs.
+  - Ensure the application meets quality and usability standards.
+  - Validate new features before release.
+
+### 🔄 DevOps Engineers
+- **Responsibilities:**
+  - Set up CI/CD pipelines for automated deployment.
+  - Manage cloud infrastructure (e.g., Vercel, AWS).
+  - Monitor performance, uptime, and error logging.
+  - Maintain staging and production environments.
+
+### 📦 Product Owner
+- **Responsibilities:**
+  - Defines and prioritizes the product backlog.
+  - Acts as the voice of the customer or end-user.
+  - Collaborates with the team to ensure the right features are built.
+  - Makes final decisions on scope and feature changes.
+
+### 🧭 Scrum Master
+- **Responsibilities:**
+  - Facilitates agile ceremonies (sprints, stand-ups, retrospectives).
+  - Removes roadblocks and fosters team productivity.
+  - Coaches team members on agile principles.
+  - Ensures transparency and continuous improvement.
+
+---
+
+Each role plays a critical part in building a scalable, user-centric, and robust Airbnb clone application.
 
