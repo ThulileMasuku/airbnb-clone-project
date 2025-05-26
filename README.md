@@ -67,3 +67,43 @@ Key design objectives:
 
 In a booking system, a user-friendly interface is crucial to build trust, reduce drop-off rates, and ensure a smooth user journey. A clear, predictable layout helps users navigate without confusion, while accessible design makes the platform usable for everyone, including those with disabilities. Minimizing friction during critical flows like searching, booking, and payment increases conversion rates and provides a positive user experience that encourages repeat visits.
 
+## UI/UX Design Planning
+
+### 🎨 Color Styles
+
+| Color Name       | Hex Code    | Usage                     |
+|------------------|------------|----------------------------|
+| Primary Color    | #FF385C    | Buttons, highlights        |
+| Secondary Color  | #717171    | Text, icons, borders       |
+| Background Color | #FFFFFF    | Main page background       |
+| Accent Color     | #EBEBEB    | Dividers, input backgrounds|
+| Alert/Error      | #FF5A5F    | Validation messages        |
+
+### 🔤 Typography
+
+| Property        | Value                  |
+|----------------|------------------------|
+| Font Family     | Inter, sans-serif      |
+| Heading Font Weight | 600 - 800 (Bold/Extra Bold) |
+| Body Font Weight    | 400 - 500 (Regular/Medium)  |
+| Font Sizes      | 12px, 14px, 16px, 20px, 24px, 32px |
+
+### 💡 Importance of Identifying Design Properties
+
+Understanding the design properties of a mockup is essential for ensuring a smooth handoff between design and development. Here’s why:
+
+- **Consistency**: Helps developers implement uniform styles across components and pages.
+- **Efficiency**: Reduces guesswork and rework by providing clear design references.
+- **Responsiveness**: Supports adapting designs across multiple screen sizes.
+- **Accessibility**: Makes it easier to choose color contrasts and typography that are readable.
+- **Maintainability**: Allows for centralized style management via CSS variables, Tailwind configs, or design systems.
+
+By mapping colors and typography from the Figma mockup to code, you ensure a polished and professional user interface that aligns with the intended brand identity.
+
+---
+
+✅ Next step: Make sure to copy and paste this section into your `README.md` in the GitHub repo, under or after any introductory or setup sections.
+
+Would you like help pushing this directly to your repo or customizing the color/typography names based on a specific Figma file?
+
+
